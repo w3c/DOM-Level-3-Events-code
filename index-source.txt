@@ -475,7 +475,7 @@ path: stylesheet-extra.include
 			may be present on a keyboard layout.
 
 			BEGIN_CODE_TABLE alphanumeric-writing-system "List of code values for writing system keys in the Alphanumeric section."
-				CODE Backquote		KEYCAP{`~} on a US keyboard. This is the KEYCAP{半角/全角/漢字}
+				CODE Backquote		KEYCAP{`~} on a US keyboard. This is also called a backtick or grave. This is the KEYCAP{半角/全角/漢字}
 									(PHONETIC{hankaku/zenkaku/kanji}) key on Japanese keyboards
 				CODE Backslash		Used for both the US KEYCAP{\|} (on the 101-key layout) and also for the key
 									located between the KEYCAP{"} and KEYCAP{Enter} keys on row C of the 102-,
